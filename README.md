@@ -1,5 +1,7 @@
 # NutriChef
 
+**[🏆 View the Hackathon Submission Write-Up](SUBMISSION_WRITEUP.md)**
+
 Personal meal planner and grocery assistant that adapts to dietary needs, budgets, and pantry inventory using Google ADK 2.0 and MCP.
 
 ## Prerequisites
