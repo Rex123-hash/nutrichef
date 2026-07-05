@@ -61,8 +61,11 @@ graph TD
 
 ## Assets
 
-- **Workflow Diagram:** [assets/architecture_diagram.png](file:///e:/adk-workspace/nutrichef/assets/architecture_diagram.png)
-- **Cover Page Banner:** [assets/cover_page_banner.png](file:///e:/adk-workspace/nutrichef/assets/cover_page_banner.png)
+### Cover Page Banner
+![Cover Page Banner](assets/cover_page_banner.png)
+
+### Workflow Diagram
+![Workflow Diagram](assets/architecture_diagram.png)
 
 ## Demo Script
 
